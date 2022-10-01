@@ -1,6 +1,6 @@
 Hey, I’m Richard! 👋 
 
-I'm learning to be a software engineer. I have experience in entrepreneurship, military leadership, and healthcare.
+I'm learning to be a software engineer. I have experience in entrepreneurship, military leadership, and management consulting.
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
