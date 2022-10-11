@@ -1,6 +1,6 @@
 Hey, I’m Richard! 👋 
 
-I'm a software engineer with achievements in entrepreneurship, military leadership, and management consulting.
+I'm a software engineer. My experiences are in entrepreneurship, military leadership, and management consulting.
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
