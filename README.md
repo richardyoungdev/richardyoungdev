@@ -1,6 +1,7 @@
 Hey, I’m Richard! 👋 
 
 I'm a software engineer with experience in entrepreneurship, military leadership, and management consulting.
+
 I build stuff to help people live happier lives.
 
 <!---
