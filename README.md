@@ -1,6 +1,6 @@
 Hey, I’m Richard! 👋 
 
-I'm a software dev in training with experience in entrepreneurship, military leadership, and management consulting.
+I'm a software engineer. My background is in e-commerece and health care. 
 
 I build stuff to help people live happier lives.
 
