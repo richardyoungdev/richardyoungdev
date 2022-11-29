@@ -1,8 +1,10 @@
 Hey, I’m Richard! 👋 
 
-I'm a software engineer. My background is in e-commerece and health care. 
+I’m a software engineer. I’m super excited to compliment my entrepreneurial, military leadership, and management consulting experience with software development.
 
-I build stuff to help people live happier lives.
+I build products to help people live happier lives.
+
+In my free time, I love to teach sailing, cook gastronomic delights, and play beach volleyball!
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
