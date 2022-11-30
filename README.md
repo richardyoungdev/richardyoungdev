@@ -1,10 +1,8 @@
-Hey, I’m Richard! 👋 
+Hey, I’m Richard! 
 
-I’m a software engineer. 
+I’m a software engineer with accomplishments in entreprenurship, military leadership, and management consulting.
 
-My experiences in entrepreneurship, military leadership, and management consulting are complimented with software development. 
-
-I build products to help people live happier lives.
+I build products to help people live happier lives. 🥳 
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
