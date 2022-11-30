@@ -2,7 +2,7 @@ Hey, I’m Richard! 👋
 
 I’m a software engineer. 
 
-I’m super excited to compliment my entrepreneurial, military leadership, and management consulting experience with software development. 
+I add my experiences in entrepreneurship, military leadership, and management consulting with software development. 
 
 I build products to help people live happier lives.
 
