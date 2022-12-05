@@ -1,6 +1,6 @@
 Hey, I’m Richard! 
 
-I’m a software engineer with accomplishments in entreprenurship, military leadership, and management consulting.
+I’m a software engineer with experience in entreprenurship, military leadership, and management consulting.
 
 I build products to help people live happier lives. 🥳 
 
