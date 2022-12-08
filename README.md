@@ -2,7 +2,7 @@ Hey, I’m Richard!
 
 I’m a software engineer with experience in entreprenurship, military leadership, and management consulting.
 
-I build products to help people live happier lives. 🥳 
+I build products to solve problems.
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
