@@ -1,8 +1,6 @@
-Hey, I’m Richard! 
+Hey, I'm Richard! I’m a software engineer with a background in e-commerce and health care. I click buttons with React and JavaScript to build products that solve problems. 
 
-I’m a software engineer with experience in entreprenurship, military leadership, and management consulting.
-
-I build products to solve problems.
+Besides gazing at my aesthetic code in admiration, I enjoy storm chasing on a sailboat, cooking gastronomic delights, and basking under the sun at bucolic parks. Let's connect! ✌️
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
