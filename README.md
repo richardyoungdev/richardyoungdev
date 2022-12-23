@@ -2,7 +2,7 @@ Hey, I'm Richard!
 
 I’m a software engineer with a background in e-commerce and health care. I click buttons, building products that solve problems. 
 
-Besides gazing at my m̶u̶s̶c̶l̶e̶s̶ --aesthetic code in admiration, I enjoy storm chasing on sailboats, cooking gastronomic delights, and basking under the sun at bucolic parks. Let's connect! ✌️
+Besides gazing at my aesthetic code in admiration, I enjoy storm chasing on sailboats, cooking gastronomic delights, and basking under the sun at bucolic parks. Let's connect! ✌️
 
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
