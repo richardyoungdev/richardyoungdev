@@ -1,6 +1,6 @@
 Hey, I'm Richard! 
 
-I'm a software engineer who codes with sunglasses on--gotta throw shade at those bugs. 😎
+😎 -> 🐛 -> 💥 -> 💯!
 
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
