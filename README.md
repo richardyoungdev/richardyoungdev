@@ -1,6 +1,6 @@
 Hey, I'm Richard! 
 
-I’m a software engineer with experiences in entrepreneurship, military leadership, and healthcare. I click buttons, building products that solve problems. 
+I’m a software engineer with experience in e-commerce and healthcare. I click buttons, building products that solve problems. 
 
 Besides gazing at my aesthetic code in admiration, I enjoy teaching people how to sail, cooking gastronomic delights and basking under the sun at bucolic parks. Let's connect! ✌️
 
