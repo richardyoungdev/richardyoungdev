@@ -1,6 +1,4 @@
-Hey, I'm Richard! 
-
-😎 -> 🐛 -> 💥 -> 💯!
+😎 -> 🐛 -> 💥 -> 💯
 
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
