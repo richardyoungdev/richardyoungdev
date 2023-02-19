@@ -6,6 +6,9 @@ Besides gazing at my aesthetic code in admiration, I enjoy teaching people how t
 
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
+![](https://https://media.tenor.com/0RAy5IQErhEAAAAM/voilier-sailing.gif)
+
+
 
 <!---
 richardyoungdev/richardyoungdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
