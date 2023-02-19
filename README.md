@@ -6,7 +6,8 @@ Besides gazing at my aesthetic code in admiration, I enjoy teaching people how t
 
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
-![](https://media.tenor.com/0RAy5IQErhEAAAAM/voilier-sailing.gif)
+![]([https://media.tenor.com/0RAy5IQErhEAAAAM/voilier-sailing.gif](https://gifdb.com/gif/cute-pikachu-squishing-his-chubby-cheeks-njvvhhfevt86cwwh.html))
+
 
 
 
