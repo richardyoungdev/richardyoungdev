@@ -7,9 +7,6 @@ Besides gazing at my aesthetic code in admiration, I enjoy teaching people how t
 Thanks for stopping by!
 ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
-![](https://gifdb.com/images/file/pokemon-playful-cute-pikachu-squeezing-face-vpqs416yp7eq5oxi.gif)
-
-
 ![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
 
