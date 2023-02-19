@@ -4,9 +4,10 @@ I'm a software engineer with experiences in NLP, healthcare, and the military.
 
 Besides gazing at my aesthetic code in admiration, I enjoy teaching people how to sail, cooking gastronomic delights and basking under the sun at bucolic parks. 
 
-![](https://komarev.com/ghpvc/?username=richardyoungdev)
+Thanks for stopping by!
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://gifdb.com/gif/cute-pikachu-squishing-his-chubby-cheeks-njvvhhfevt86cwwh.html))
 
-![](https://gifdb.com/gif/cute-pikachu-squishing-his-chubby-cheeks-njvvhhfevt86cwwh.html))
+![](https://komarev.com/ghpvc/?username=richardyoungdev)
 
 
 
