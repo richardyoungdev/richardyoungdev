@@ -1,6 +1,6 @@
 Hey, I'm Richard!
 
-I'm a software engineer with experiences in NLP, healthcare, and the military. 
+I'm a software engineer with experiences in NLP, healthcare, military, and e-commerce. 
 
 I enjoy solving problems. When I could not access ChatGPT because it was too busy serving a zillion users, I created my own ChatGPT! Check it out here--> https://chatgptmessenger-steel.vercel.app/
 
