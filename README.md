@@ -1,6 +1,6 @@
 Hey, I'm Richard!
 
-I'm a software engineer with experiences in NLP, healthcare, and the military. 
+I'm a software engineer with experiences in AI/NLP, healthcare, e-commerce, and the military. 
 
 My personality trait is pickleball! 💥
 
